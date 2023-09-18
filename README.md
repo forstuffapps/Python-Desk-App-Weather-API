@@ -34,7 +34,7 @@ To get the Timezone and time i have used the pytz module and timezonefinder modu
 ![Weather App](https://github.com/forstuffapps/Python-Desk-App-Weather-API/blob/main/c0869346_Vishal.png)
 
 ## Sample Video:
-![weather app](https://github.com/forstuffapps/Python-Desk-App-Weather-API/blob/main/2023-09-18%2000-07-00.mkv)
+![weather app]([https://github.com/forstuffapps/Python-Desk-App-Weather-API/blob/main/2023-09-18%2000-07-00.mkv](https://github.com/forstuffapps/Python-Desk-App-Weather-API/blob/main/weather_1.gif)https://github.com/forstuffapps/Python-Desk-App-Weather-API/blob/main/weather_1.gif)
 
 
 ### Author:
