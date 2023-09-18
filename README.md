@@ -19,9 +19,7 @@ It generates the data in the form of json.</br>
 - Requests Python Module
 </br>
 
-**Pytz Module** - This Module is all about the timezone so using this module we extracted the timezone of specified longitude and latitude generated from openweather api</br>
 
-**Timezonefinder** - As the name suggests it is used to find the timezone only so using timezone we can show the current time of that searched city.</br>
 
 Visit [Open Weather](https://openweathermap.org/) </br>
 Create Your account in this and get the api key and refer the documentation</br>
@@ -34,6 +32,9 @@ To get the Timezone and time i have used the pytz module and timezonefinder modu
 
 ## Screenshots:
 ![Weather App](https://github.com/forstuffapps/Python-Desk-App-Weather-API/blob/main/c0869346_Vishal.png)
+
+## Sample Video:
+![weather app](https://github.com/forstuffapps/Python-Desk-App-Weather-API/blob/main/2023-09-18%2000-07-00.mkv)
 
 
 ### Author:
