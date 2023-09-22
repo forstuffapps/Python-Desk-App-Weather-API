@@ -12,8 +12,6 @@ It generates the data in the form of json.</br>
 
 ## Technologies Used:
 - OpenWeather Api
-- Pytz python Module
-- Timezonefinder Python Module
 - Tkinter 
 - Python 3.9.1
 - Requests Python Module
